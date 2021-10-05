@@ -1,0 +1,18 @@
+1) How long time did you end up spending on this coding test?
+
+It took almost 2 evenings, may be 4-5 hours approximately both evenings on this project.
+
+2) Explain why you chose the code structure(s) you used in your solution.
+
+I tried to keep it simple and minimum. Apart from automatic generated structure - one index page for simple GUI plus one homecontroller
+to create a post endpoint, which holds the functionality to process the text file. This post endpoint is good to test via Postman.
+
+
+3) What would you add to your solution if you had more time? This question is especially important if you did not spend much time on the coding
+test - use this as an opportunity to explain what your solution is missing.
+I would love to extend the functionality and put more checks, for example to exclude special symbols from the text or handling long files. Also I would like to handle line
+breaks in a more effecient way.
+
+4) What did you think of this recruitment test?
+I think its a good idea to see problem solving capabilities along with thinking process. For sure person could deliver way more than that when they
+get a good introduction around the framework team is using today.
