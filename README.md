@@ -11,5 +11,5 @@ You are free to choose what specific technologies to use in this assignment, how
 ASP.NET  Core, ASP.NET  Framework for backend
 JavaScript, React/Vue/Angular for frontend
 
-In order to test in postman the program must be running at same time at same port. The has been tested in Postman, see the below screen:
+In order to test in postman the program must be running at same time at same port. This has been tested in Postman, see the below screen:
 ![image](https://user-images.githubusercontent.com/8665907/144431722-471fff7f-2ef2-4737-8731-b56696e726af.png)
