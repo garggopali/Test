@@ -11,6 +11,6 @@ You are free to choose what specific technologies to use in this assignment, how
 ASP.NET  Core, ASP.NET  Framework for backend
 JavaScript, React/Vue/Angular for frontend
 
-Please read the readme.txt file to execute the program, below screen shot is from the postman which I have taken during my testing.
+Please read the readme.docx file to execute the program, below screen shot is from the postman which I have taken during my testing.
 FYI: In order to test in postman the program must be running at same time at same port.  
 ![image](https://user-images.githubusercontent.com/8665907/144431722-471fff7f-2ef2-4737-8731-b56696e726af.png)
